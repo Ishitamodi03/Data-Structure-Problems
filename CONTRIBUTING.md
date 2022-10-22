@@ -5,7 +5,7 @@ Add your name to tle list of contributers followed by your username.
 ### Template
 
 ```md
-- [Your Name] | [Github username]
+- Ishita Modi | [Github username]
 ```
 
 ### List of Contributers
@@ -16,3 +16,4 @@ Add your name to tle list of contributers followed by your username.
 - Aasit | enc-rypto
 - Mustekeem Arsh | MustekeemArsh10
 - Atul Singh | Lanceiz
+- Ishita Modi | Ishitamodi03
